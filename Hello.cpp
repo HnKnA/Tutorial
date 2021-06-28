@@ -5,7 +5,7 @@ int main(){
     int a;
    
    cin>>a;
-   int b=a*5;
+   int b=a*50;
     cout<<b;
     return 0;
 }
